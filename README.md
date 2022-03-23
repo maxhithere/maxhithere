@@ -2,7 +2,7 @@
 
 
 
-https://discord.c99.nl/widget/theme-2/676051070308450344.png
+<img src="https://discord.c99.nl/widget/theme-2/676051070308450344.png"/>
 
    
 ## About Me
