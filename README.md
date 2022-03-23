@@ -2,7 +2,7 @@
 
 
 
-[https://discord.com/users/676051070308450344](https://discord.c99.nl/widget/theme-2/676051070308450344.png)
+[https://discord.com/users/676051070308450344](https://discord.c99.nl/widget/theme-2/67605107030845044.png)
 
    
 ## About Me
