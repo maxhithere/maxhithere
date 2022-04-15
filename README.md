@@ -7,21 +7,11 @@
    
 ## About Me
 
-⇒ 🔭 I’m currently working on [Discord Bot Development](https://discord.com/developers/applications)
-
-⇒ 🌱 I currently use javascript and html
+⇒ 🌱 I currently use javascript, lua, html, and css!
 
 ⇒ 👯 I like hanging out with people
 
-⇒ 🤖 Discord bot developer
-
-## About My Discord Bot
-
-- Bot: hazed#7969
-- Verified? No
-- hazed is a multi purpose bot with `info` `moderation` `fun` `actions` `economy` `utility` `customization`
-
-- [Invite hazed](https://discord.com/api/oauth2/authorize?client_id=905226557772136459&permissions=8&scope=bot)
+⇒ 🤖 Developer
 
 
 
