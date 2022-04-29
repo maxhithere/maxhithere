@@ -11,7 +11,7 @@
 
 ‣ 🎓 I study computer science, programming, and making my own projects
 
-‣ 🤖 Developer of automatic bots (from my repos) and side projects
+‣ 🤖 Developer of automatic bots (from my repos) and other bots
 
 ‣ 🔧 I make roblox backdoors and scripts for games
 
