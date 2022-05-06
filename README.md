@@ -19,15 +19,8 @@
 
 
 
-  
-## 🚀 My favourite Languages:
+## Contact:
 
-<p align="left"> 
-    <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a> 
-    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-shadow-tal-revivo.png"/> </a> 
-
-
-  
-</p>
+‣ discord - max is cool#0009
+‣ instagram - maxwasbanned
+‣ email - maxvolod16@gmail.com
