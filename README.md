@@ -22,5 +22,7 @@
 ## Contact:
 
 ‣ discord - max is cool#0009
+
 ‣ instagram - maxwasbanned
+
 ‣ email - maxvolod16@gmail.com
