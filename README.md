@@ -7,7 +7,7 @@
    
 ## About Me
 
-‣ 💻 I currently use javascript, lua, python, html, and css
+‣ 💻 I currently use javascript, lua, luau, python, html, and css
 
 ‣ 🎓 I study computer science, programming, and making my own projects
 
