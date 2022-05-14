@@ -9,9 +9,9 @@
 
 ‣ 💻 I currently use javascript, lua, luau, python, html, and css
 
-‣ 🎓 I study computer science, programming, and making my own projects
+‣ 🎓 I study computer science and programming
 
-‣ 🤖 Developer of automatic bots (from my repos) and other bots
+‣ 🤖 Developer of many bots, websites, and backdoors
 
 ‣ 🔧 I make roblox backdoors and scripts for games
 
