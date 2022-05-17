@@ -21,7 +21,7 @@
 
 ## Contact:
 
-‣ discord - max is cool#0009
+‣ discord - ! max#0009
 
 ‣ instagram - maxwasbanned
 
