@@ -13,9 +13,7 @@
 
 ‣ 🤖 Developer of many bots, websites, and backdoors
 
-‣ 🔧 I make roblox backdoors and scripts for games
-
-‣ 💸 Open for commisions, just friend me at `max is cool#0009`
+‣ 💸 Open for commisions, just friend me at `! max#0009`
 
 
 
