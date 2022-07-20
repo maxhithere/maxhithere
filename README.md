@@ -21,8 +21,6 @@
 
 ‣ discord - ! max#0009
 
-‣ instagram - maxwasbanned
-
 ‣ email - maxvolod16@gmail.com
 
 
