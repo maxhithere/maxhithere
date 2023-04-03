@@ -11,7 +11,7 @@
 ### Owner of Bloxy Discord Bot
 https://bloxy.digital/
 
-### Owner of SafeShield Roblox Plugin
+### Owner of CheckmateX
 (W.I.P)
 
 
