@@ -12,7 +12,7 @@
 https://bloxy.digital/
 
 ### Owner of CheckmateX
-(W.I.P)
+discord.gg/emarket
 
 
 
