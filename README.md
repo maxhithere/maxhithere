@@ -19,7 +19,7 @@ discord.gg/emarket
 
 
 
-<img src="https://discord.c99.nl/widget/theme-2/676051070308450344.png"/>
+<img src="https://discord.c99.nl/widget/theme-2/1090084177925382164.png"/>
 
 
 
