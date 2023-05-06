@@ -8,11 +8,14 @@
 
 
 
-### Owner of Bloxy Discord Bot
+### Owner - Bloxy Discord Bot
 https://bloxy.digital/
 
-### Owner of CheckmateX
-discord.gg/emarket
+### Owner - CheckmateX
+very soon
+
+### Developer - J3ldo UGC Sniper
+https://github.com/J3ldo/UGC-Sniper
 
 
 
