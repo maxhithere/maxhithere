@@ -12,7 +12,7 @@
 https://bloxy.digital/
 
 ### Owner - CheckmateX
-very soon
+https://discord.gg/zZzEtMCdtT
 
 ### Developer - J3ldo UGC Sniper
 https://github.com/J3ldo/UGC-Sniper
