@@ -9,10 +9,10 @@
 
 
 ### Owner - Bloxy Discord Bot
-https://bloxy.digital/
+https://bloxy.digital/ (discontinued)
 
 ### Owner - CheckmateX
-https://discord.gg/zZzEtMCdtT
+https://discord.gg/Bp3NQJV7/
 
 ### Developer - J3ldo UGC Sniper
 https://github.com/J3ldo/UGC-Sniper
