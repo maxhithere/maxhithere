@@ -12,7 +12,7 @@ discord keeps terminating me for literally no reason
 https://bloxy.digital/ (discontinued)
 
 ### Owner - CheckmateX Roblox Botting Tool
-https://discord.gg/AkASAdJbkr
+https://checkmatex.cloud
 
 ### Developer - J3ldo UGC Sniper
 https://github.com/J3ldo/UGC-Sniper
