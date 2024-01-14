@@ -27,7 +27,6 @@
 
 
 
-<img src="https://discord.c99.nl/widget/theme-2/1125485211115855903.png"/>
 
 
 
